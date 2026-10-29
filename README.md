@@ -9,7 +9,6 @@ DocIntelli is an intelligent PDF Chatbot that leverages **Retrieval-Augmented Ge
 - **Efficient Retrieval:** Uses **FAISS** for high-speed document indexing.
 
 ## 🏗️ How It Works (RAG Architecture)
-*(Diagram coming soon!)*
 
 1. **Ingestion:** Upload a PDF; the system extracts text using `PyPDF`.
 2. **Chunking:** Text is split into small segments to preserve context.
